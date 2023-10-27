@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Team_ID\Chord\obj\Debug\net7.0\Chord.fsproj.AssemblyReference.cache
+C:\Users\user\Desktop\Team_ID\Chord\obj\Debug\net7.0\Chord.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Team_ID\Chord\obj\Debug\net7.0\Chord.AssemblyInfo.fs
+C:\Users\user\Desktop\Team_ID\Chord\obj\Debug\net7.0\Chord.fsproj.CoreCompileInputs.cache

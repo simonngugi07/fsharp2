@@ -1,0 +1,15 @@
+Average number of hops =
+Sum of the number of hops for all requests for all nodes
+numRequests * numNodes
+
+// Assuming you have already performed the simulation and have a list of RequestResult objects with the number of hops for each request.
+
+let numNodes = // Get numNodes from the command line arguments
+let numRequests = // Get numRequests from the command line arguments
+let requestResults: RequestResult list = // Replace with your actual list of request results
+
+let totalHops = requestResults |> List.sumBy (fun result -> result.Hops)
+
+let averageHops = float totalHops / float (numRequests * numNodes)
+
+printfn "Average number of hops: %f" averageHops

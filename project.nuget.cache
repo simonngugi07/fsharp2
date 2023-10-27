@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GM1DBFjU2sVIxed3LXiBx6jWENrOV5inD16vQ4erHNorFEeCAFzKYB8+htkVXG95BKI3aoj/lb91H1/rFrK+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Team_ID\\Chord\\Chord.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\7.0.401\\fsharp.core.7.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
